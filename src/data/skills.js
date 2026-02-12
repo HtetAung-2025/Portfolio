@@ -1,0 +1,110 @@
+export const skills = [
+    {
+        id: 1,
+        name: 'React.js',
+        icon: 'Code2',
+        level: 'Intermediate',
+    },
+    {
+        id: 2,
+        name: 'JavaScript',
+        icon: 'FileJson',
+        level: 'Intermediate',
+    },
+    {
+        id: 3,
+        name: 'HTML',
+        icon: 'FileCode2',
+        level: 'Advanced',
+    },
+    {
+        id: 4,
+        name: 'CSS',
+        icon: 'Palette',
+        level: 'Advanced',
+    },
+    {
+        id: 5,
+        name: 'TailWind CSS',
+        icon: 'Palette',
+        level: 'PreIntermediate',
+    },
+    {
+        id: 6,
+        name: 'Java',
+        icon: 'Coffee',
+        level: 'PreIntermediate',
+    },
+    {
+        id: 7,
+        name: 'C++',
+        icon: 'Zap',
+        level: 'PreIntermediate',
+    },
+    {
+        id: 8,
+        name: 'C++',
+        icon: 'Zap',
+        level: 'PreIntermediate',
+    },
+    {
+        id: 9,
+        name: 'Myanmar',
+        icon: 'Languages',
+        level: 'Native',
+    },
+    {
+        id: 10,
+        name: 'English',
+        icon: 'Languages',
+        level: 'Intermediate',
+    },
+    {
+        id: 11,
+        name: 'Japanese',
+        icon: 'Languages',
+        level: 'Advanced',
+    },
+    {
+        id: 12,
+        name: 'Chinese',
+        icon: 'Languages',
+        level: 'Basic',
+    },
+    {
+        id: 13,
+        name: 'Git &GitHub',
+        icon: 'Github',
+        level: 'Advanced',
+    },
+    {
+        id: 14,
+        name: 'Figma',
+        icon: 'Figma',
+        level: 'Advanced',
+    },
+    {
+        id: 15,
+        name: 'Photoshop',
+        icon: 'Image',
+        level: 'Intermediate',
+    },
+    {
+        id: 16,
+        name: 'Ai Illustrator',
+        icon: 'PenTool',
+        level: 'Advanced',
+    },
+    {
+        id: 17,
+        name: 'Microsoft',
+        icon: 'FileText',
+        level: 'Advanced',
+    },
+    {
+        id: 18,
+        name: 'MySQl',
+        icon: 'Database',
+        level: 'PreIntrmediate',
+    }
+]
