@@ -73,7 +73,7 @@ const Hero = () => {
                 {/* Image container - moved outside the spinning div */}
                 <div className="relative rounded-2xl overflow-hidden m-[1px] h-[calc(100%-2px)]">
                   <img
-                    src="src/developer/a.jpg"
+                    src="/developer/a.jpg"
                     alt="Developer at work"
                     className="w-full h-full object-cover"
                   />
