@@ -16,7 +16,7 @@ export const projects = [
         image: '/developer/portfolio.png',
         category: 'Web アプリ',
         technologies: ['React', 'TailwindCSS'],
-        demoUrl: 'https://design-library.jp',
+        demoUrl: 'https://htetaung-portfolio-2026.vercel.app/',
         githubUrl: 'https://github.com/HtetAung-2025/Portfolio'
     },
     {
