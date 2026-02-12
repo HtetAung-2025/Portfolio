@@ -6,8 +6,8 @@ export const projects = [
         image: '/developer/yakigashi.png',
         category: 'Web アプリ',
         technologies: ['React', 'CSS'],
-        demoUrl: 'https://koukikadai-ten.vercel.app/',
-        githubUrl: 'https://github.com/HtetAung-2025/KOUKIKADAI'
+        demoUrl: 'https://yakigashi3and1-onlineshop-ecsite.vercel.app/',
+        githubUrl: 'https://github.com/HtetAung-2025/yakigashi3and1-ECsite'
     },
     {
         id: 2,
@@ -26,8 +26,8 @@ export const projects = [
         image: '/developer/ClothesShop.png',
         category: '実習',
         technologies: ['HTML', 'CSS','JS'],
-        demoUrl: 'https://online-shop-seven-tau.vercel.app/',
-        githubUrl: 'https://github.com/HtetAung-2025/OnlineShop'
+        demoUrl: 'https://clothes-onlineshop-ecsite.vercel.app/',
+        githubUrl: 'https://github.com/HtetAung-2025/Clothes-OnlinShop-ECsite'
     },
     {
         id: 4,
