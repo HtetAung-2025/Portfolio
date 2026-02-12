@@ -1,4 +1,5 @@
 import React from 'react'
+import { SpeedInsights } from '@vercel/speed-insights/react'
 import Hero from './components/sections/Hero.jsx'
 import Navbar from './components/layout/Navbar.jsx'
 import About from './components/sections/About.jsx'
@@ -29,6 +30,7 @@ function App() {
       
       {/* <Footer /> */}
       <Footer/>
+      <SpeedInsights />
     </div>
   )
 }
